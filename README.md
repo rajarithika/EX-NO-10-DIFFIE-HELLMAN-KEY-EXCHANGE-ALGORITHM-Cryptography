@@ -18,6 +18,9 @@ To Implement Diffie Hellman Key Exchange Algorithm
 
 5. Security: The difficulty of computing discrete logarithms ensures that the shared key remains secure even if public values are intercepted.
 
+## NAME: RAJA RITHIKA
+## REG NO: 230500029
+
 ## Program:
 
 ```
